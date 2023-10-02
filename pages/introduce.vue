@@ -2,9 +2,7 @@
 
 <template>
   <div>
-    <LayoutHeaderItem />
-    <slot />
-    <LayoutFooterItem />
+    <p>introduce</p>
   </div>
 </template>
 

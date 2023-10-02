@@ -1,6 +1,10 @@
+<script lang="ts" setup></script>
+
 <template>
   <div>
-    <NuxtWelcome />
-    <div>index</div>
+    <p>我是page首頁</p>
+    <ContentItem />
   </div>
 </template>
+
+<style scoped></style>

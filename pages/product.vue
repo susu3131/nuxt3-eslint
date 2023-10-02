@@ -2,9 +2,7 @@
 
 <template>
   <div>
-    <LayoutHeaderItem />
-    <slot />
-    <LayoutFooterItem />
+    <p>product</p>
   </div>
 </template>
 
