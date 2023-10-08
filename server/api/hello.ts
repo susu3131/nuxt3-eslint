@@ -1,3 +1,3 @@
 export default defineEventHandler((event) => {
-  return 'Hello test.get'
-})
+  return "Hello(api)";
+});
